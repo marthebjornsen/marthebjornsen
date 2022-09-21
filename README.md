@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marthe Bjornsen
-- 👀 I’m interested in movies, coding and sewing.
+- 👀 I’m interested in watching TV series, coding and sewing.
 - 🌱 I’m currently learning Vue
 - 📫 How to reach me marthe.bjornsen@attensi.com
 
