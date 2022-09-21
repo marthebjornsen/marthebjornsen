@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Marthe Bjornsen
+- 👋 Hi, I’m Marthe Bjørnsen
 - 👀 I’m interested in watching TV series, coding and sewing.
 - 🌱 I’m currently learning Vue
 - 📫 How to reach me marthe.bjornsen@attensi.com
